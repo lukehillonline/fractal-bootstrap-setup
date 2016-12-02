@@ -1,0 +1,6 @@
+title: Breadcrumbs
+preview: '@preview'
+context:
+    linkOne: Home
+    linkTwo: Hub
+    currentPage: Article

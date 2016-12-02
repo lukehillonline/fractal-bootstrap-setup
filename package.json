@@ -1,0 +1,24 @@
+{
+  "name": "Lukehillonline",
+  "version": "1.0.0",
+  "description": "Lukehillonline",
+  "repository": {
+    "type": "git",
+    "url": "unknown"
+  },
+  "author": "Luke Hill",
+  "devDependencies": {
+    "@frctl/fractal": "^1.0.11",
+    "bootstrap-sass": "^3.3.7",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.13",
+    "gulp-concat": "^2.6.1",
+    "gulp-open": "^2.0.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.9.1",
+    "gulp-tinypng-compress": "^1.2.1",
+    "gulp-uglify": "^2.0.0",
+    "gulp-watch": "^4.3.11",
+    "run-sequence": "^1.2.2"
+  }
+}
